@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <div className="content">
           <Switch>
-            <Route exact path="/react-blog">
+            <Route exact path="/react-blog/">
               <Home />
             </Route>
             <Route exact path="/">
